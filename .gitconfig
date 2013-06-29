@@ -76,3 +76,8 @@
 
 [push]
 	default = matching
+[user]
+	name = frankfarro
+	email = frankfarro@gmail.com
+[credential]
+	helper = osxkeychain
